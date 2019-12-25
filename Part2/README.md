@@ -3,8 +3,8 @@
 ## 使用方式
 1.  複製到本地端
     ```
-    $git clone 
-    $cd 
+    $git clone https://github.com/r05323045/Gilacloud_Test.git
+    $cd Gilacloud_Test
     ```
     輸入下列指令直接執行，會輸出`crawl_data.json`, `crawl_data.txt`, `crawl_content.txt`三個檔案
     ``` 
